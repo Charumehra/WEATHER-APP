@@ -69,6 +69,7 @@
     padding: 20px;
     margin: 40px;
     height: fit-content;
+    width: 80vw;
   }
   .search-bar input {
     height: 40px;
